@@ -1,0 +1,101 @@
+
+
+        body {
+            background-color: plum;
+            font-size: medium;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        
+        body h1{
+            background-color: papayawhip;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 70px;
+            width: 500px;
+            padding: 20px;
+            margin-left: 700px;
+            margin-top: 50px;
+            border-radius: 5px;
+            box-shadow: 5px 5px lavenderblush;
+            
+        
+        }
+        
+        ul {
+            list-style: none;
+        }
+        
+         li {
+            display: flex;
+            justify-content: space-between;
+            background-color: floralwhite;
+            height: 30px;
+            width: 610px;
+            padding: 15px;
+            margin-left: 610px;
+            margin-top: 25px;
+            border-radius: 20px;
+            border-style: none ;
+            box-shadow: 5px 5px 5px lavenderblush;
+        } 
+        
+        li button {
+            margin: -10px -137px;
+            box-shadow: 5px 5px 5px lightgoldenrodyellow;
+        
+        } 
+        
+        input {
+            background-color: floralwhite;
+            height: 20px;
+            width: 600px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            margin-left: 650px;
+            margin-top: 50px;
+            margin-bottom: 30px;
+            border-radius: 20px;
+            border-style: none ;
+            box-shadow: 5px 5px 5px lavender;
+        }
+        
+        button {
+            background-color: khaki;
+            height: 20px;
+            width: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            margin-left: 1310px;
+            margin-top: -70px;
+            border-radius: 20px;
+            cursor: pointer;
+            border: none;
+            box-shadow: 5px 5px 5px snow;
+            
+        }
+        
+        .botones {
+            display: flex;
+            gap: 60px;
+            margin-left: 40px;
+        
+        }
+        
+        button:hover {
+            background-color: lightcoral;
+        }
+        
+       
+          .editar {
+                    background-color: lightcoral;
+                
+                  
+                }
+            .editar:hover {
+                    background-color: honeydew;
+                }
